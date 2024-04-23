@@ -1,6 +1,6 @@
 # Introduction to Computer Science and Programming Course
 
-First lesson - [Link](https://youtu.be/MjvFeOx0Qyo)
+First lesson - [Link]([https://youtu.be/MjvFeOx0Qyo](https://youtu.be/MjvFeOx0Qyo?si=W2bayqjwTqxqgcuG))
 
 The lesson is for those who haven't much experience in programming. There I explain what is the idea of programming and how we can use it.
 
